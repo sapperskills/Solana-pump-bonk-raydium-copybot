@@ -1,0 +1,14 @@
+{
+  "RPC_URL":       "",
+  "WS_URL":        "",
+  "PUMP_API_URL":  "https://pumpportal.fun/api/trade-local",
+  "TARGET_PUBS": [
+    "ALgqxHKWYKQQDkhXiaPVwzoKKWVuMNhcypdaofjx7XXZ"
+    
+  ],
+  "SOL_MINT":      "So11111111111111111111111111111111111111112",
+  "BUY_SOL":       0.000,
+  "SLIPPAGE_BPS":  100,
+  "PRIORITY_FEE":  0.0005
+}
+
